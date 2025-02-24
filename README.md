@@ -1,3 +1,15 @@
+## Overview
+
+This project implements a Deep Q-Network (DQN) for training an agent to play Super Mario Bros game. The model leverages convolutional neural networks (CNNs) to process game frames and reinforcement learning techniques to optimize Mario's actions based on rewards.
+
+## Dependence
+
+python == 3.9.20
+gym == 0.21.0
+gym-super-mario-bros == 7.3.0 
+numpy == 1.25.2
+pillow == 11.0.0
+
 ## Custom Rewards
 
 The training process is guided by a custom reward function to encourage better gameplay strategies:
