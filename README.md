@@ -4,11 +4,11 @@ This project implements a Deep Q-Network (DQN) for training an agent to play Sup
 
 ## Dependence
 
-python == 3.9.20
-gym == 0.21.0
-gym-super-mario-bros == 7.3.0 
-numpy == 1.25.2
-pillow == 11.0.0
+python == 3.9.20 <br />
+gym == 0.21.0 <br />
+gym-super-mario-bros == 7.3.0 <br />
+numpy == 1.25.2 <br />
+pillow == 11.0.0 <br />
 
 ## Custom Rewards
 
